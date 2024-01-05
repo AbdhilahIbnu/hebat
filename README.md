@@ -13,5 +13,5 @@ Anggota 1:
 - Membuat revisi pada halaman login dan halaman pemesanan laundry.
   
 Anggota 2:
- -
+ -tt
  -
